@@ -68,9 +68,23 @@ CMC is a construction maintanance cell that handles all construction related req
 
 2. Click on the `CMC correspondence` option.
 
+<p align="center">
+  <img src="Images/c6.png" />
+</p>
+
+
 3. Now you will see `HOD Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
 
+<p align="center">
+  <img src="Images/c7.png" />
+</p>
+
+
 4. Under `Action Required` you will find only those requests which is pending for the action taken by HOD.
+
+<p align="center">
+  <img src="Images/c8.png" />
+</p>
 
 5. Now when we open the request which is inside `Action Required`. You can click on `Action` button to `Forward` or `Reject` the request based on  details.
 
