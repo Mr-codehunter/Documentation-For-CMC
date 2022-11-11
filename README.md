@@ -167,4 +167,9 @@ CMC is a construction maintanance cell that handles all construction related req
 
 10. Now you will see `Action` button and can take corresponding action like `Approve` and `Reject`.
 
+<p align="center">
+  <img src="Images/c13.png" />
+</p>
+
+
 11. Go on the `Logo` left hand side to go CMC `Dashboard` again.
