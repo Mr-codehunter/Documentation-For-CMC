@@ -174,3 +174,11 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 
 11. Go on the `Logo` left hand side to go `CMC Correspondance` again.
+
+<br>
+
+-- <br>
+Thanks & Regards <br>
+[Software Development Centre](https://github.com/Software-Developemnt-Centre) <br>
+GNDEC, Ludhiana. <br>
+
