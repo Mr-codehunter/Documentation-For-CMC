@@ -120,3 +120,33 @@
 11. Now you will see "Action" button and take the "Aciton" accordingly like "Forward" or "On Hold".
 
 12. Now click on the "Logo" on left hand side to go "SDE Dashboard" again.
+
+## For CMC Head
+
+### How CMC Head will Approve/Reject the request
+
+1. Go on erp.gndec.ac.in.
+
+2. Login with credentails then click on "Login with LDAP".
+
+4. Go on "Switch To Desk" under profile.
+
+5. Go on "CMC Correspondance".
+
+3. You will see "CMC Dashboard" where you find several status like "Action Required" , "Forward" , "Approved" , "Rejected" and "Stock Items".
+
+4. Now when you will click on any status, you will see requests respecctively.
+
+5. Open "Action Required" go to some request which are "Forwarded" from SDE.
+
+6.  Then open the request and put the "Sanctioned Cost".
+
+7. Select "Yes" or "No" in "Work fit for execution".
+
+8. Give permission to "Allowed start to the work".
+
+9. Click on "Save" button.
+
+10. Now you will see "Action" button and can take corrosponding action like "Approve" and "Reject".
+
+11. Go on the "Logo" left hand side to go CMC "Dashboard" again.
