@@ -1,6 +1,6 @@
-# Construction & Maintenance Cell
+# Construction & Maintenance Cell User Manual
 
-CMC is a construction maintanance cell that handles all construction related requests or complaints. When any employee put the request then it will go the respective department of HOD. HOD take ccorresponding action on that request and forward furher to the SDE. SDE will check the request , take action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head. CMC Head approval is the final and crucial stage of the complaint. If CMC Head will approve the request then finally work will start on the Complaint.
+CMC Stands for construction & maintanance cell that handles all construction related requests/complaints. When any employee put the request then it will go the respective department of HoD. HoD take corresponding action on that request and forward further to the SDE. SDE will check the request, and take the action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head. CMC Head approval is the final and crucial stage of the complaint. If CMC Head will approve the request then finally work will start on the Complaint.
 
 ## For Employee
 
@@ -73,14 +73,14 @@ CMC is a construction maintanance cell that handles all construction related req
 </p>
 
 
-3. Now you will see `HOD Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
+3. Now you will see `HoD Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
 
 <p align="center">
   <img src="Images/c7.png" />
 </p>
 
 
-4. Under `Action Required` you will find only those requests which is pending for the action taken by HOD.
+4. Under `Action Required` you will find only those requests which is pending for the action taken by HoD.
 
 <p align="center">
   <img src="Images/c8.png" />
@@ -111,16 +111,17 @@ CMC is a construction maintanance cell that handles all construction related req
 </p>
 
 
-5. Now when you will click on any status you will see requests respecctively.
+5. Now when you will click on any status you will see requests respectively.
 
-6. Open `Action Required` go to some request which are `Forwarded` from HOD.
+6. Open `Action Required` go to some request which are `Forwarded` from HoD.
 
-7. Then based on the request information. Go to `Estimate Table` and fill the required information like.
-   - Stock
+7. Then based on the request information. Go to `Estimate Table` and fill the required information like :
+
+   - `Stock`
    - Click on `Add row` and fill the information respectively.
-   - Labour Cost
-   - Time estimate
-   - Units
+   - `Labour Cost`
+   - `Time estimate`
+   - `Units`
    
 10. Click on `Save` button.
 
@@ -131,7 +132,7 @@ CMC is a construction maintanance cell that handles all construction related req
 </p>
 
 
-12. Now click on the`Logo` on left hand side to go `SDE Dashboard` again.
+12. Now click on the`Logo` on left hand side to go `CMC Correspondance` again.
 
 
 ## For CMC Head
@@ -172,4 +173,4 @@ CMC is a construction maintanance cell that handles all construction related req
 </p>
 
 
-11. Go on the `Logo` left hand side to go CMC `Dashboard` again.
+11. Go on the `Logo` left hand side to go `CMC Correspondance` again.
