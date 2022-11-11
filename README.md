@@ -88,6 +88,11 @@ CMC is a construction maintanance cell that handles all construction related req
 
 5. Now when we open the request which is inside `Action Required`. You can click on `Action` button to `Forward` or `Reject` the request based on  details.
 
+<p align="center">
+  <img src="Images/c9.png" />
+</p>
+
+
 6. Now according to the `Action` the request will be now shown in `CMC Dashboard` in respective status.
 
 
