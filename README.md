@@ -12,7 +12,7 @@
    
    password - suraj@123 
    
-4. Click on "login with LDAP".
+4. Click on `login with LDAP`.
 
 5. Go on Maintanance Request Form. It will show you CMC Request form.
 
@@ -20,7 +20,7 @@
 
 1. In Subject Field. 
 
-   Fill the subject regarding the problem you facing like "Door Broken" 
+   Fill the subject regarding the problem you facing like `Door Broken` 
    
 2. Select Nature of work.
    
@@ -48,20 +48,20 @@
 
 1. After login go on switch to desk.
 
-2. Click on the "CMC Correspondance" option.
+2. Click on the `CMC Correspondance` option.
 
-3. Now you will see "CMC Dashboard" where you will find different status of requests like "Action Required", "Forward", "Reject" and "Keep Pending".
+3. Now you will see `CMC Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
 
-4. Under "Action Required" you will find only those requests which is pending for the action taken by HOD.
+4. Under `Action Required` you will find only those requests which is pending for the action taken by HOD.
 
-5. Now when we open the request which is inside "Action Required". You can click on "Action" button to "Forward" or "Reject" the request based on  details.
+5. Now when we open the request which is inside `Action Required`. You can click on `Action` button to `Forward` or `Reject` the request based on  details.
 
 6. Now according to the "Action" the request will be now shown in "CMC Dashboard" in respective status.
 
 
 ## For SDE
 
-1. Now you will see "SDE Dashboard", where you will see diffrent status of requests like "Action Required", "Forward", "Approved by CMC", "Rejected by CMC", "On Hold" and "Stock Items".
+1. Now you will see "SDE Dashboard", where you will see different status of requests like `Action Required`, "Forward", "Approved by CMC", "Rejected by CMC", "On Hold" and "Stock Items".
 
 2. Now when you will click the status you will see requests respecctively.
 
