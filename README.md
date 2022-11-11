@@ -126,6 +126,11 @@ CMC is a construction maintanance cell that handles all construction related req
 
 11. Now you will see `Action` button and take the `Aciton` accordingly like `Forward` or `On Hold`.
 
+<p align="center">
+  <img src="Images/c11.png" />
+</p>
+
+
 12. Now click on the`Logo` on left hand side to go `SDE Dashboard` again.
 
 
