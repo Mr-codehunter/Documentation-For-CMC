@@ -50,6 +50,10 @@ CMC is a construction maintanance cell that handles all construction related req
    
 6. Click on `Save` Button.
 
+<p align="center">
+  <img src="Images/c4.png" />
+</p>
+
 
 ## For HOD'S
 
