@@ -106,6 +106,11 @@ CMC is a construction maintanance cell that handles all construction related req
 
 4. Now you will see `SDE Dashboard`, where you will see different status of requests like `Action Required`, `Forward`, `Approved by CMC`, `Rejected by CMC`, `On Hold` and `Stock Items`.
 
+<p align="center">
+  <img src="Images/c10.png" />
+</p>
+
+
 5. Now when you will click on any status you will see requests respecctively.
 
 6. Open `Action Required` go to some request which are `Forwarded` from HOD.
