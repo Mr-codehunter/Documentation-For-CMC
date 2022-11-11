@@ -1,6 +1,6 @@
 # CMC
 
-`CMC is a construction maintanance cell that handles all construction related requests or complaints. When any employee put the request then it will go the respective department of HOD. HOD take ccorresponding action on that request and forward furher to the SDE. SDE will check the request , take action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head. CMC Head approval is the final and crucial stage of the complaint. If CMC Head will approve the request then finally work will start on the Complaint.`
+`CMC is a construction maintenance cell that handles all construction-related requests or complaints. When any employee puts in the request, it will go to the respective department's HOD. HOD should take corresponding action on that request and forward it on to the SDE. SDE will check the request, take action on it, and if the request is valid, he will put the estimate information in the estimate table along with the labour cost as well and forward it further to the CMC Head. The CMC head's approval is the final and crucial stage of the complaint. If the request is approved by the CMC Head, work on the complaint will finally begin.`
 
 ## For Employee
 
