@@ -12,7 +12,7 @@ CMC is a construction maintanance cell that handles all construction related req
 
 2. Login with your credentials.
    
- <p align="center">
+<p align="center">
   <img src="Images/c2.png" />
 </p>
 
@@ -20,6 +20,11 @@ CMC is a construction maintanance cell that handles all construction related req
 4. Click on `login with LDAP`.
 
 5. Go on Maintanance Request Form. It will show you CMC Request form.
+
+<p align="center">
+  <img src="Images/c3.png" />
+</p>
+
 
 ## Fill the CMC Request form 
 
