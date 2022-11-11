@@ -4,7 +4,7 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 ## For Employee
 
-1. Go to on the erp.gndec.in
+1. Go to on the [erp.gndec.in](https://erp.gndec.ac.in/)
 
 <p align="center">
   <img src="Images/c1.png" />
@@ -98,7 +98,7 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 ## For SDE
 
-1. Go on erp.gndec.ac.in
+1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
 2. Login with Credentails then click on `Login with LDAP`.
 
@@ -139,7 +139,7 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 ### How CMC Head will take actions on the request
 
-1. Go on erp.gndec.ac.in.
+1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
 2. Login with credentails then click on `Login with LDAP`.
 
