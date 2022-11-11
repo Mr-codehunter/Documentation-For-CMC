@@ -57,10 +57,14 @@ CMC is a construction maintanance cell that handles all construction related req
 
 ## For HOD'S
 
-
 ### How HOD take actions on the request
 
 1. After login go on switch to desk.
+
+<p align="center">
+  <img src="Images/c5.png" />
+</p>
+
 
 2. Click on the `CMC correspondence` option.
 
