@@ -7,18 +7,15 @@ CMC is a construction maintanance cell that handles all construction related req
 1. Go to on the erp.gndec.in
 
 <p align="center">
-  <img src="images/c1.png" />
+  <img src="Images/c1.png" />
 </p>
-
-
 
 2. Login with your credentials.
    
-   For example : 
-   
-   Id name - suraj@gndec.ac.in
-   
-   password - suraj@123 
+ <p align="center">
+  <img src="Images/c2.png" />
+</p>
+
    
 4. Click on `login with LDAP`.
 
