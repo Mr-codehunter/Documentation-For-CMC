@@ -4,9 +4,7 @@
 
 1. Go to on the erp.gndec.in
 
-2. Go on Dashboard.
-
-3. Login with your credentials.
+2. Login with your credentials.
    
    For example : 
    
@@ -46,7 +44,7 @@
 ## For HOD'S
 
 
-### How HOD Reject/Forward the request
+### How HOD take actions on the request
 
 1. After login go on switch to desk.
 
@@ -60,8 +58,6 @@
 
 6. Now according to the "Action" the request will be now shown in "CMC Dashboard" in respective status.
 
-
-## For CMC official's 
 
 ## For SDE
 
@@ -86,7 +82,7 @@
 
 ## For CMC Head
 
-### How CMC Head will Approve/Reject the request
+### How CMC Head will take actions on the request
 
 1. Go on erp.gndec.ac.in.
 
