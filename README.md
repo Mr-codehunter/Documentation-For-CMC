@@ -44,11 +44,19 @@ CMC Stands for construction & maintanance cell that handles all construction rel
  
    Describe where you facing the problem.
    
+5. `Justification of request`.
+
+    Give justification about the complaint.
+   
 5. `Attach image`.
 
    You can attach the image if you think it is required.
    
-6. Click on `Save` Button.
+6. `Caption/Description of Image`.
+   
+7.  Click on `Save` Button.
+
+
 
 <p align="center">
   <img src="Images/c4.png" />
@@ -59,41 +67,45 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 ### How HOD take actions on the request
 
-1. After login go on switch to desk.
+1. Go on erp.gndec.in
+
+2. Login with Credentails then click on `Login with LDAP`.
+
+3. After login go on `switch to desk`.
 
 <p align="center">
   <img src="Images/c5.png" />
 </p>
 
 
-2. Click on the `CMC correspondence` option.
+4. Click on the `CMC correspondence` option.
 
 <p align="center">
   <img src="Images/c6.png" />
 </p>
 
 
-3. Now you will see `HoD Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
+5. Now you will see `HoD Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
 
 <p align="center">
   <img src="Images/c7.png" />
 </p>
 
 
-4. Under `Action Required` you will find only those requests which is pending for the action taken by HoD.
+6. Under `Action Required` you will find only those requests which is pending for the action taken by HoD.
 
 <p align="center">
   <img src="Images/c8.png" />
 </p>
 
-5. Now when we open the request which is inside `Action Required`. You can click on `Action` button to `Forward` or `Reject` the request based on  details.
+7. Now when we open the request which is inside `Action Required`. You can click on `Action` button to `Forward` or `Reject` the request based on  details.
 
 <p align="center">
   <img src="Images/c9.png" />
 </p>
 
 
-6. Now according to the `Action` the request will be now shown in `CMC Dashboard` in respective status.
+8. Now according to the `Action` the request will be now shown in `CMC Dashboard` in respective status.
 
 
 ## For SDE
