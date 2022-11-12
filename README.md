@@ -1,7 +1,7 @@
 # Construction & Maintenance Cell User Manual
 
-CMC Stands for construction & maintanance cell that handles all construction related requests/complaints. When any employee put the request then it will go the respective department of HoD. HoD take corresponding action on that request and forward further to the SDE. SDE will check the request, and take the action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head. CMC Head approval is the final and crucial stage of the complaint. If CMC Head will approve the request then finally work will start on the Complaint.
 
+CMC Stands for construction & maintanance cell that handles all construction related requests/complaints. When any employee put the request then it will go the respective department of HoD. HoD take corresponding action on that request and forward further to the SDE. SDE will check the request, and take the action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head. CMC Head approval is the final and crucial stage of the complaint. If CMC Head will approve the request then finally work will start on the Complaint.
 ## For Employee
 
 1. Go to on the [erp.gndec.in](https://erp.gndec.ac.in/)
