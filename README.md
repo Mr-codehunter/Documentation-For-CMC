@@ -67,7 +67,7 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 ### How HOD take actions on the request
 
-1. Go on erp.gndec.in
+1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
 2. Login with Credentails then click on `Login with LDAP`.
 
