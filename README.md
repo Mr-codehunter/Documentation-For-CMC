@@ -153,6 +153,8 @@ CMC Stands for construction & maintanance cell that handles all construction or 
   <img src="Images/h3.png" />
 </p>
 
+12. Lets reject one request now after going to `Action Required`. Select the request and take action.
+
 
 ## For SDE
 
