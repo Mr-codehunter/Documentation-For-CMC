@@ -164,10 +164,10 @@ CMC Stands for construction & maintanance cell that handles all construction or 
   <img src="Images/h5.png" />
 </p>
 
-14. Now after doing "Forward" you will see that the status is now changed of that request. Now click on the above right side site logo to go back to desk.
+14. Now after doing "Reject" you will see that the status is now changed of that request. Now click on the above right side site logo to go back to desk.
 
 <p align="center">
-  <img src="Images/h2.png" />
+  <img src="Images/h9.png" />
 </p>
 
 15. Now you will see that the "Keep pending" status got one request. Now click on "Keep pending" status which contain rejected requests.
