@@ -218,14 +218,14 @@ CMC Stands for construction & maintanance cell that handles all construction or 
   <img src="Images/s4.png" />
 </p>
 
-5. Now when you will click on any status you will see requests respectively. Open `Action Required` go to some request which are `Forwarded` from HoD.
+7. Now when you will click on any status you will see requests respectively. Open `Action Required` go to some request which are `Forwarded` from HoD.
 
 <p align="center">
   <img src="Images/s5.png" />
 </p>
 
 
-7. Then based on the request information. Go to `Estimate Table` and fill the required information like :
+8. Then based on the request information. Go to `Estimate Table` and fill the required information like :
 
    - `Stock`
    - Click on `Add row` and fill the information respectively.
