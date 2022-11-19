@@ -129,7 +129,7 @@ CMC Stands for construction & maintanance cell that handles all construction or 
   <img src="Images/c8.png" />
 </p>
 
-8. Now when we open the request which is inside `Action Required`. You can add comment and click on `Action` button to `Forward` or `Reject` the request based on details.
+8. Now when we open the request which is inside `Action Required`. You can add comment and click on `Action` button to `Forward` the request based on details.
 
 <p align="center">
   <img src="Images/c9.png" />
@@ -153,7 +153,34 @@ CMC Stands for construction & maintanance cell that handles all construction or 
   <img src="Images/h3.png" />
 </p>
 
-12. Lets reject one request now after going to `Action Required`. Select the request and take action.
+12. Go to `Action required` again to reject one request.
+<p align="center">
+  <img src="Images/h4.png" />
+</p>
+
+13. Now when we open the request which is inside `Action Required`. You can add comment and click on `Action` button to `Reject` the request based on details.
+
+<p align="center">
+  <img src="Images/h5.png" />
+</p>
+
+14. Now after doing "Forward" you will see that the status is now changed of that request. Now click on the above right side site logo to go back to desk.
+
+<p align="center">
+  <img src="Images/h2.png" />
+</p>
+
+15. Now you will see that the "Keep pending" status got one request. Now click on "Keep pending" status which contain rejected requests.
+
+<p align="center">
+  <img src="Images/h7.png" />
+</p>
+
+16. After clicking on the request click on `Action` button again. Now you will see that you can finallize your dicision `Forward anyway` or `Confirm rejection`.
+
+<p align="center">
+  <img src="Images/h8.png" />
+</p>
 
 
 ## For SDE
