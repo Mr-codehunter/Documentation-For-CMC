@@ -12,13 +12,12 @@ CMC Stands for construction & maintanance cell that handles all construction or 
 </p>
 
 2. Login with your credentials.
+4. Click on `login with LDAP`.
    
 <p align="center">
   <img src="Images/c2.png" />
 </p>
 
-   
-4. Click on `login with LDAP`.
 
 5. Go on Maintanance Request Form. It will show you CMC Request form.
 
@@ -31,7 +30,7 @@ CMC Stands for construction & maintanance cell that handles all construction or 
 
 1. In `Subject Field`. 
 
-   Fill the subject regarding the problem you facing like `Door Broken` 
+   Fill the subject regarding the problem you facing like `Broken Door` 
    
 2. Select `Nature of work`.
    
@@ -49,18 +48,39 @@ CMC Stands for construction & maintanance cell that handles all construction or 
 
     Give justification about the complaint.
    
-5. `Attach image`.
+6. `Attach image`.
 
    You can attach the image if you think it is required.
    
-6. `Caption/Description of Image`.
+7. `Caption/Description of Image`.
    
-7.  Click on `Save` Button.
-
-
+8. Click on `Save` Button.
 
 <p align="center">
   <img src="Images/c4.png" />
+</p>
+
+9. Now you will see `Your request has been submitted successfully`
+
+<p align="center">
+  <img src="Images/sucess.png" />
+</p>
+
+10. After submitting sucessfully you will get redirect to your profile page.
+
+<p align="center">
+  <img src="Images/profile.png" />
+</p>
+
+11. Go to `My Requests` to check the status of your request.
+
+<p align="center">
+  <img src="Images/profile2.png" />
+</p>
+
+12. Now you can see the status of your request and you can also click on `Create New Complaint` to post another request.
+<p align="center">
+  <img src="Images/last.png" />
 </p>
 
 
