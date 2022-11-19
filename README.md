@@ -1,10 +1,11 @@
 # Construction & Maintenance Cell User Manual
 
 
-CMC Stands for construction & maintanance cell that handles all construction related requests/complaints. When any employee put the request then it will go the respective department of HoD. HoD take corresponding action on that request and forward further to the SDE. SDE will check the request, and take the action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head. CMC Head approval is the final and crucial stage of the complaint. If CMC Head will approve the request then finally work will start on the Complaint.
+CMC Stands for construction & maintanance cell that handles all construction or repair related requests/complaints. When any employee put the request then it will go the HoD of respective department. HoD take action on that request i.e forward further to the SDE or reject the request. if forwarded SDE will check the request, and take the action on it and if request is valid then he will put the ESTIMATE information and labour cost as well and forward further to the CMC Head else return the.In case of more justification needed along with comments. CMC Head approval is the final and crucial stage of te complaint. If CMC Head approve the request then finally work will begin on it.
+
 ## For Employee
 
-1. Go to on the [erp.gndec.in](https://erp.gndec.ac.in/)
+1. Go on erp.gndec.ac.in 
 
 <p align="center">
   <img src="Images/c1.png" />
@@ -71,7 +72,7 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 
 2. Login with Credentails then click on `Login with LDAP`.
 
-3. After login go on `switch to desk`.
+3. After login go on `profile logo` and click on `switch to desk`.
 
 <p align="center">
   <img src="Images/c5.png" />
@@ -88,7 +89,7 @@ CMC Stands for construction & maintanance cell that handles all construction rel
 5. Now you will see `HoD Dashboard` where you will find different status of requests like `Action Required`, `Forward`, `Reject` and `Keep Pending`.
 
 <p align="center">
-  <img src="Images/c7.png" />
+  <img src="" />
 </p>
 
 
