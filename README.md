@@ -229,10 +229,31 @@ CMC Stands for construction & maintanance cell that handles all construction or 
 
    - `Stock`
    - Click on `Add row` and fill the information respectively.
+   - `Quantity`
    - `Labour Cost`
    - `Time estimate`
    - `Units`
+
+<p align="center">
+  <img src="Images/s6.png" />
+</p>
    
+9. Add labour cost.
+   <p align="center">
+  <img src="Images/s7.png" />
+</p>
+
+10. Add the item by reading its name, then add quantity, labour cost and the save the request.
+
+<p align="center">
+  <img src="Images/s8.png" />
+</p>
+
+
+<p align="center">
+  <img src="Images/s9.png" />
+</p>
+
 10. Click on `Save` button.
 
 11. Now you will see `Action` button and take the `Aciton` accordingly like `Forward` or `On Hold`.
