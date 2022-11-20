@@ -249,17 +249,16 @@ CMC Stands for construction & maintanance cell that handles all construction or 
   <img src="Images/s8.png" />
 </p>
 
+11. Now you will see the action button. Check the form and then `Forward` the request based on the details.
 
 <p align="center">
   <img src="Images/s9.png" />
 </p>
 
-10. Click on `Save` button.
-
-11. Now you will see `Action` button and take the `Aciton` accordingly like `Forward` or `On Hold`.
+12. The status or request will change, then click on the Logo to go back to desk.
 
 <p align="center">
-  <img src="Images/c11.png" />
+  <img src="Images/s10.png" />
 </p>
 
 
