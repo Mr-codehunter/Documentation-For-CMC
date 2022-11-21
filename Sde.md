@@ -1,6 +1,6 @@
 [Previous](Hod.md) | [Index](Sde.md) | [Next](Cmc_Official.md)
 
-## INstructions for SDE
+## Instructions for SDE
 
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
