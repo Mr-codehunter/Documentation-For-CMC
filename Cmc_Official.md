@@ -45,3 +45,5 @@
 11. Go on the `Logo` left hand side to go `CMC Correspondance` again.
 
 <br>
+
+[Previous](Sde.md) | [Index](index.md)
