@@ -3,7 +3,12 @@
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
 
-2. Login with credentails then click on `Login with LDAP`.
+2. Login with credentails then click on `GNDEC Login`.
+
+<p align="center">
+  <img src="Images/h12.png" />
+</p>
+
 
 4. Go on `Switch To Desk` under profile.
 
