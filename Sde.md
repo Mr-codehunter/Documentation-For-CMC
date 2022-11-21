@@ -7,10 +7,10 @@
   <img src="Images/c1.png" />
 </p>
 
-3. Enter Credentails then click on `Login with LDAP`.
+3. Enter Credentails then click on `GNDEC Login`.
 
 <p align="center">
-  <img src="Images/s1.png" />
+  <img src="Images/h12.png" />
 </p>
 
 4. After login go on `profile logo` and click on `switch to desk`.
