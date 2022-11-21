@@ -1,3 +1,8 @@
+[Previous](Readme.md) | [Index](Readme.md) | [Next](Hod.md)
+
+
+## Instructions for Employee
+
 1. Go on [erp.gndec.ac.in](https://erp.gndec.ac.in/) 
 
 <p align="center">
