@@ -1,4 +1,3 @@
-## For SDE
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
