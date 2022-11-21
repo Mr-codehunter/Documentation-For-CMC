@@ -1,5 +1,3 @@
-## For HOD'S
-
 ### How HOD take actions on the request
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
