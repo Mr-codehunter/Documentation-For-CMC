@@ -5,7 +5,7 @@
 </p>
 
 2. Login with your credentials.
-4. Click on `login with LDAP`.
+4. Click on `GNDEC Login`.
    
 <p align="center">
   <img src="Images/h12.png" />
