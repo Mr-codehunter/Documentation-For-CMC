@@ -1,4 +1,4 @@
-[Previous](Readme.md) | [Index](Readme.md) | [Next](Hod.md)
+[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
 
 
 ## Instructions for Employee
