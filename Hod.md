@@ -96,3 +96,6 @@
 <p align="center">
   <img src="Images/h8.png" />
 </p>
+
+
+[Previous](Employee.md) | [Index](Hod.md) | [Next](Sde.md)
