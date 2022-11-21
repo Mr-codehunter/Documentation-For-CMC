@@ -1,4 +1,7 @@
-### How HOD take actions on the request
+[Previous](Employee.md) | [Index](Hod.md) | [Next](Sde.md)
+
+
+## Instructions for Hod's
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
