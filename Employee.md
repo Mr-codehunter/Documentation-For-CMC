@@ -8,7 +8,7 @@
 4. Click on `login with LDAP`.
    
 <p align="center">
-  <img src="Images/c2.png" />
+  <img src="Images/h12.png" />
 </p>
 
 
