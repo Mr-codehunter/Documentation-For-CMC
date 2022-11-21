@@ -81,3 +81,4 @@
   <img src="Images/last.png" />
 </p>
 
+[Previous](README.md) | [Index](README.md) | [Next](Hod.md)
