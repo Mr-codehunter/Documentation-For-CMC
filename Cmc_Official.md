@@ -1,4 +1,6 @@
-### How CMC Head will take actions on the request
+[Previous](Sde.md) | [Index](index.md)
+
+## Instructions for CMC Official
 
 1. Go on [erp.gndec.in](https://erp.gndec.ac.in/)
 
