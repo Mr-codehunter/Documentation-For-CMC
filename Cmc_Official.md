@@ -1,4 +1,4 @@
-[Previous](Sde.md) | [Index](index.md)
+[Previous](Sde.md)
 
 ## Instructions for CMC Official
 
@@ -46,4 +46,4 @@
 
 <br>
 
-[Previous](Sde.md) | [Index](index.md)
+[Previous](Sde.md)
