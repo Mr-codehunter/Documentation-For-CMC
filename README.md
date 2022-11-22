@@ -15,24 +15,6 @@ HoD may forward that request to the
 SDE. All concerned can go through following documentation meant for each role.
 
 
-
-
-## Documentation for
-
-
-
-
-1. [An Employee](Employee)
-
-1. [Head of the Department](Hod)
-
-1. [Sub Divisioanl Engineer](Sde)
-
-1. [CMC Head](Cmc_Official)
-
-
-
-
 ---
 
 
