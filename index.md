@@ -26,7 +26,7 @@ SDE. All concerned can go through following documentation meant for each role.
 
 1. [Head of the Department](Hod.md)
 
-1. [Sub Divisioanl Engineer](Sde.md)
+1. [Sub Divisional Engineer](Sde.md)
 
 1. [CMC Head](Cmc_Official.md)
 
